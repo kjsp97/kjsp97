@@ -49,7 +49,7 @@
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=git,postman,vite,npm,pnpm,scss" />
+            <img src="https://skillicons.dev/icons?i=git,postman,nodejs,vite,npm,pnpm,scss" />
         </a>
     </p>
 </span>
