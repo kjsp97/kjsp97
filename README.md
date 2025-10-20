@@ -31,7 +31,7 @@
 <span>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=vscode,idea" />
     </a>
   </p>
 </span>
@@ -49,7 +49,7 @@
 <span>
     <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,postman,npm,pnpm,scss" />
+      <img src="https://skillicons.dev/icons?i=git,postman,vite,npm,pnpm,scss" />
     </a>
   </p>
 </span>
