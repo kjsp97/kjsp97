@@ -13,7 +13,7 @@
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,express" />
+            <img src="https://skillicons.dev/icons?i=tailwind,react,express,nextjs" />
         </a>
     </p>
 </span>
