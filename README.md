@@ -3,54 +3,42 @@
 <h4> Languages </h4>
 <span> 
   <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java" />
-    </a>
   </p>
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,express" />
-    </a>
   </p>
 </span>
 
 <h4> Databases </h4>
 <span>
   <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,mongodb,prisma" />
-    </a>
   </p>
 </span>
 
 <h4> IDE </h4>
 <span>
   <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,idea" />
-    </a>
   </p>
 </span>
 
 <h4> Operating System </h4>
 <span>
   <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu" />
-    </a>
   </p>
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
     <p align="center">
-    <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,postman,vite,npm,pnpm,scss" />
-    </a>
   </p>
 </span>
     
