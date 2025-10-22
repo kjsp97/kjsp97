@@ -27,11 +27,11 @@
     </p>
 </span>
 
-<h4> IDE </h4>
+<h4> Other Tools and Technologies </h4>
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=vscode,idea" />
+            <img src="https://skillicons.dev/icons?i=git,postman,nodejs,vite,npm,pnpm,scss" />
         </a>
     </p>
 </span>
@@ -45,15 +45,14 @@
     </p>
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> IDE </h4>
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=git,postman,nodejs,vite,npm,pnpm,scss" />
+            <img src="https://skillicons.dev/icons?i=vscode,idea" />
         </a>
     </p>
 </span>
-
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="#" target="blank"><img align="center"
