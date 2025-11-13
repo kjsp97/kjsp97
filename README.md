@@ -22,7 +22,7 @@
 <span>
     <p align="center">
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,mongodb,prisma" />
+            <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize,prisma" />
         </a>
     </p>
 </span>
